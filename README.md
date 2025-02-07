@@ -1,5 +1,8 @@
 # openai-translator-alfred
 use universal actions to open openai_translator quickly and translate selected text
+# Preview
+![openai-translator-alfred](https://github.com/user-attachments/assets/1e58effe-6304-487b-a7b4-ac2415fb2c22)
+
 # Features
 
 ## universal actions
